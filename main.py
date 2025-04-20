@@ -6,7 +6,7 @@ from os import path
 GRID_WIDTH = 16
 GRID_HEIGHT = 16
 NB_BOMBS = 30
-RANGE_FIRST_CLICK = 1 # Number of cases min that wont has bomb around the first click
+RANGE_FIRST_CLICK = 2 # Number of cases min that wont has bomb around the first click
 SHOW_MILLISECONDS = False # Change x seconds to x.yz seconds timer
 # This 2 options are very usefull :
 ACTIVATE_FLASH_LIGHT = True # Show the tuile that impacts the number where u click
