@@ -64,3 +64,24 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 
    ```py main.py```
 
+## Some pictures
+
+Open the game
+
+![image](https://github.com/user-attachments/assets/e8bb6396-4ecb-411c-b9cf-2f8d24f2995e)
+
+First click 
+
+![image](https://github.com/user-attachments/assets/c1b46ea1-0717-45a4-a137-74687058374d)
+
+About to finish 
+
+![image](https://github.com/user-attachments/assets/128f8da8-7a75-44e2-a895-68b29a25b24e)
+
+Win the game 
+
+![image](https://github.com/user-attachments/assets/9fcb12d1-9e31-4357-94a8-f7e73e9fa7b0)
+
+Lose the game 
+
+![image](https://github.com/user-attachments/assets/20064394-ab89-470a-a98d-1d98d0c14b7f)
