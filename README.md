@@ -12,7 +12,7 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 - **ACTIVATE_FLASH_LIGHT:** To see which case influence the number where you just click at.
 - **AUTO_CLICK_ON_NUMBER:** An Auto Reveal. Click on a number with the correct number of flags to auto-reveal surrounding cells.
 
-** Already in game :**
+**Already in game:**
 - **Pause/Resume:** Hit `P` to pause/resume at any time.
 - **Dynamic Scaling:** Automatically adjusts tile size when resizing the window.
 - **Zoom In/Out:** Use `+` or `-` to zoom the board.
