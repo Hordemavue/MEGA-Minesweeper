@@ -25,8 +25,8 @@ Supports classic gameplay with additional features like zoom, pause, auto-reveal
 | Level        | Width | Height | Bombs |
 |--------------|-------|--------|-------|
 | Beginner     | 10    | 10     | 8     |
-| Intermediate | 16    | 16     | 25    |
-| Expert       | 30    | 16     | 60    |
+| Intermediate | 16    | 16     | 30    |
+| Expert       | 30    | 16     | 70    |
 
 ## 🧩 Installation
 
