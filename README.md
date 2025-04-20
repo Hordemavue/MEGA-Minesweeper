@@ -4,7 +4,7 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 
 ## 🚀 Features 
 
-**For the moment, to change in code, line 5 to 13 :**
+**For the moment, to change in code, line 5 to 13 (You can open on all interpretor to modify it like notepad or vusial studio code) :**
 - **GRID_WIDTH and GRID_HEIGHT:** To change the size of the grid.
 - **NB_BOMBS:** To change the number of the bomb.
 - **RANGE_FIRST_CLICK:** Bombs are never placed within a square radius around the first click. (I recommand at least 2, 3 should be better, more is too much)
