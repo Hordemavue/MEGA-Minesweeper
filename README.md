@@ -85,3 +85,15 @@ Win the game
 Lose the game 
 
 ![image](https://github.com/user-attachments/assets/20064394-ab89-470a-a98d-1d98d0c14b7f)
+
+Pause the game (p)
+
+![image](https://github.com/user-attachments/assets/6912db24-0231-4ac1-9696-cfa7185d54eb)
+
+Zoom the game (+) (it miss a scroll bar)
+
+![image](https://github.com/user-attachments/assets/b674d677-59ff-440a-8455-f39dedfda904)
+
+Unzoom the game (-)
+
+![image](https://github.com/user-attachments/assets/9483a262-7003-4846-8d2d-0be7ff96f665)
