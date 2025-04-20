@@ -1,12 +1,17 @@
 # MEGA-Minesweeper
 
-A powerful and fully resizable Minesweeper clone built with `pygame`.  
-Supports classic gameplay with additional features like zoom, pause, auto-reveal, and difficulty presets.
+Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate the number on the 8 surrounding cells (3x3 square -1, the center) but the 24 surrounding cells (5x5 -1, the center) !! NO, YOU ARE NOT DREAMING, THATS MEGA-MINESWEEPER !!! 
 
-## 🚀 Features
+## 🚀 Features 
 
-- **Auto Reveal:** Click on a number with the correct number of flags to auto-reveal surrounding cells.
-- **Smart First Click:** Bombs are never placed within a square radius around the first click.
+**For the moment, to change in code, line 5 to 13 :**
+- **GRID_WIDTH and GRID_HEIGHT:** To change the size of the grid.
+- **NB_BOMBS:** To change the number of the bomb.
+- **RANGE_FIRST_CLICK:** Bombs are never placed within a square radius around the first click. (I recommand at least 2, 3 should be better, more is too much)
+- **SHOW_MILLISECONDS:** To have a better information about the timer.
+- **ACTIVATE_FLASH_LIGHT:** To see which case influence the number where you just click at.
+- **AUTO_CLICK_ON_NUMBER:** An Auto Reveal. Click on a number with the correct number of flags to auto-reveal surrounding cells.
+
 - **Pause/Resume:** Hit `P` to pause/resume at any time.
 - **Dynamic Scaling:** Automatically adjusts tile size when resizing the window.
 - **Zoom In/Out:** Use `+` or `-` to zoom the board.
