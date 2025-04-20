@@ -18,6 +18,7 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 - **Zoom In/Out:** Use `+` or `-` to zoom the board.
 - **Difficulty Presets:** Beginner, Intermediate, Expert.
 - **Flag Counter & Timer:** Displays remaining bombs and elapsed time.
+- **START A NEW GAME :** Click on the smiley just above the grid 
 
 ## 🎮 Controls
 
