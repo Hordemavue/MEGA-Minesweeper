@@ -97,3 +97,10 @@ Zoom the game (+) (it miss a scroll bar)
 Unzoom the game (-)
 
 ![image](https://github.com/user-attachments/assets/9483a262-7003-4846-8d2d-0be7ff96f665)
+
+## My personal best 
+
+Intermediate (16x16, 30 bombs)
+
+![image](https://github.com/user-attachments/assets/ffceb178-e1e4-4712-8ecd-25c36b38eccf)
+
