@@ -44,10 +44,12 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
    ```cd mega-minesweeper```
 
 3. Install dependencies:
-   
+
+   Install python 3.x from the Microsoft store or on the official site
+
    ```pip install pygame```
 
-4. Make sure the data/ folder contains the required image assets:
+3. Make sure the data/ folder contains the required image assets:
    
    discovery.png
    not_discovery.png
@@ -60,7 +62,7 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
    param.png
    1.png - 24.png
 
-5. Run the game:
+4. Run the game:
 
    ```py main.py```
 
