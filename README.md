@@ -37,6 +37,7 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 ## 🧩 Installation
 
 1. Clone the repo:
+   
    ```git clone https://github.com/yourusername/mega-minesweeper.git```
    ```cd mega-minesweeper```
 
