@@ -39,26 +39,27 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 1. Clone the repo:
    
    ```git clone https://github.com/yourusername/mega-minesweeper.git```
+   
    ```cd mega-minesweeper```
 
-2. Install dependencies:
+3. Install dependencies:
    
-```pip install pygame```
+   ```pip install pygame```
 
-3. Make sure the data/ folder contains the required image assets:
+4. Make sure the data/ folder contains the required image assets:
    
-discovery.png
-not_discovery.png
-flag.png
-bomb.png
-bomb_click.png
-bomb_barre.png
-playing.png
-clock.png
-param.png
-1.png - 24.png
+   discovery.png
+   not_discovery.png
+   flag.png
+   bomb.png
+   bomb_click.png
+   bomb_barre.png
+   playing.png
+   clock.png
+   param.png
+   1.png - 24.png
 
-4. Run the game:
+5. Run the game:
 
-```py minesweeper.py```
+   ```py minesweeper.py```
 
