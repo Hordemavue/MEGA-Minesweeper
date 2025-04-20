@@ -58,5 +58,6 @@ param.png
 1.png - 24.png
 
 4. Run the game:
+
 ```py minesweeper.py```
 
