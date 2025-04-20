@@ -100,6 +100,10 @@ Unzoom the game (-)
 
 ## My personal best 
 
+Beginner (10x10, 8 bombs)
+
+![image](https://github.com/user-attachments/assets/3e7851ee-1f44-46cc-92d8-d94530ac8c2d)
+
 Intermediate (16x16, 30 bombs)
 
 ![image](https://github.com/user-attachments/assets/ffceb178-e1e4-4712-8ecd-25c36b38eccf)
