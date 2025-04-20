@@ -62,5 +62,5 @@ Not Minesweeper, MEGA-Minesweeper !!! The same game but numbers dont indicate th
 
 5. Run the game:
 
-   ```py minesweeper.py```
+   ```py main.py```
 
