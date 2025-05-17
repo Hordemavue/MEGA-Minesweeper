@@ -108,5 +108,6 @@ Beginner (10x10, 8 bombs)
 
 Intermediate (16x16, 30 bombs)
 
-![image](https://github.com/user-attachments/assets/ffceb178-e1e4-4712-8ecd-25c36b38eccf)
+![image](https://github.com/user-attachments/assets/4c951756-fe93-48f3-8a9b-5c24d300a8da)
+
 
